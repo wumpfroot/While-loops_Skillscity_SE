@@ -9,7 +9,7 @@ while (i >= 0) {
 	i--;
 }
 
-//do while loop
+//countdowns to zero, but using a do while loop
 console.log("Same countdown, but using a DO WHILE loop");
 let index = 10;
 do {
